@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "devDependencies": {
-    "@internal/a": "1.0.0"
+    "@tools/a": "1.0.0"
   },
   "keywords": [],
   "author": "",
