@@ -4,7 +4,7 @@
     "packages/*"
   ],
   "scripts": {
-    "test": "npm i --package-lock-only"
+    "test": "node bump && npm i --package-lock-only"
   },
   "keywords": [],
   "author": "",
