@@ -1,0 +1,12 @@
+{
+  "name": "npm-bug",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "npm i --package-lock-only"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
